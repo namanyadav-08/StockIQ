@@ -199,7 +199,7 @@ def show_stock_detail():
         else:
             return []
 
-    FINNHUB_API_KEY = "d1fr6b9r01qig3h3ndigd1fr6b9r01qig3h3ndj0"
+    FINNHUB_API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
     news_items = get_finnhub_news(symbol, FINNHUB_API_KEY)
 
     if news_items:
