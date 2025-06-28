@@ -6,7 +6,7 @@ from openai import OpenAI
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
 )
 
 def show_chatbot():
