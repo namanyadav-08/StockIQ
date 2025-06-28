@@ -21,7 +21,7 @@ A fully functional, modern Streamlit application for stock prediction, personali
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/namanyadav-08/StockIQ
 cd "frontend copy"
 ```
 
